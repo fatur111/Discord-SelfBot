@@ -1,7 +1,7 @@
 {
-  "token": "Your discord token",
-  "ownerID": "Your Discord ID",
-  "prefix": "-",
+  "token": "NjMyOTA1MzU1Nzc2NDkxNTMx.XbvzIg.9y6tzXFK69kYvYhmafd3Flt6hiU",
+  "ownerID": "632905355776491531",
+  "prefix": "N",
   "rotatePlayingGame": true,
   "rotatePlayingGameTime" : 150000,
   "rotatePlayingGameInStreamingStatus": false,
